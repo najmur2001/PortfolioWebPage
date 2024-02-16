@@ -2,7 +2,7 @@
   {
     "name": "Portfolio",
     "desc": "Portfolio webpage showcasing projects with HTML, CSS, JS, and JSON. Responsive design, interactive features, and dynamic project data.",
-    "image": "najportfolio",
+    "image": "najportfolio.png",
     "category": "portfolio",
     "links": {
       "view": "#",
