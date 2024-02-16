@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio webpage showcasing projects with HTML, CSS, JS, and JSON. Responsive design, interactive features, and dynamic project data.",
+    "image": "najportfolio",
+    "category": "portfolio",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/najmur2001/PortfolioWebPage"
+    }
+  },
+  
+  {
+    "name": "Hospital Management",
+    "desc": " developed using Java Servlets, JSP, MySQL, HTML, CSS, and JavaScript. It offers a robust solution for managing various aspects of hospital operation.",
+    "image": "hospital",
+    "category": "Webjava",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/najmur2001/Hospital_Management_System"
+    }
+  },
+  {
+    "name": "Energy Meter Billing System",
+    "desc": "A web app simplifying energy meter billing System.  Built with Spring Boot, mongodb and React.",
+    "image": "login",
+    "category": "webjava",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/najmur2001/EnergyMeterBillingSystem"
+    }
+  }
+  
+  
+]
