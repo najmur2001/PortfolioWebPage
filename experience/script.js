@@ -55,7 +55,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
+        document.title = "Experience | Portfolio Najmur Hossain";
         $("#favicon").attr("href","/assets/images/Picture.jpg");
     }
     else {
